@@ -1,0 +1,9 @@
+record number,issued,applied,completed,desc,location,property_owner,contractor,value,fees,type,status,category
+1001,2025/01/10,2025/01/01,2025/02/15,"New residential building construction","123 Main St, Springfield","John Doe","ABC Builders","$250,000","$5,000","Residential","Completed","Single Family"
+1002,2025/01/12,2025/01/05,2025/02/20,"Commercial office renovation","456 Market Ave, Springfield","Jane Smith","XYZ Contractors","$400,000","$8,000","Commercial","In Progress","Office"
+1003,2025/01/15,2025/01/10,2025/02/25,"Swimming pool installation","789 Elm St, Springfield","Bob Johnson","Pool Masters","$60,000","$1,200","Residential","Completed","Pool"
+1001,2025/01/10,2025/01/01,2025/02/15,"Duplicate residential record","123 Main St, Springfield","John Doe","ABC Builders","$250,000","$5,000","Residential","Completed","Single Family"
+1004,2025/01/18,2025/01/12,2025/02/28,"Retail store expansion","321 Oak St, Springfield","Alice Brown","Retail Builders","$150,000","$3,000","Commercial","Completed","Retail"
+1005,2025/01/20,2025/01/15,2025/03/01,"Garage addition","654 Pine St, Springfield","Tom Clark","Garage Pros","$35,000","$700","Residential","In Progress","Garage"
+1002,2025/01/12,2025/01/05,2025/02/20,"Duplicate commercial record","456 Market Ave, Springfield","Jane Smith","XYZ Contractors","$400,000","$8,000","Commercial","In Progress","Office"
+1006,2025/01/22,2025/01/18,2025/03/05,"Unclassified project","987 Maple St, Springfield","Sam Lee","Unknown","$80,000","$1,600","Other","Pending","Miscellaneous"

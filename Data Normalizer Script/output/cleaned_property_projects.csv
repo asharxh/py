@@ -1,0 +1,6 @@
+classification,record_id,issue_date,application_date,completion_date,description,address,owner,contractor,valuation,fee,type,status,category
+Residential,1001,2025-01-10,2025-01-01,2025-02-15,New residential building construction,"123 Main St, Springfield",John Doe,ABC Builders,250000,5000,Residential,Completed,Single Family
+Commercial,1002,2025-01-12,2025-01-05,2025-02-20,Commercial office renovation,"456 Market Ave, Springfield",Jane Smith,XYZ Contractors,400000,8000,Commercial,In Progress,Office
+Residential,1003,2025-01-15,2025-01-10,2025-02-25,Swimming pool installation,"789 Elm St, Springfield",Bob Johnson,Pool Masters,60000,1200,Residential,Completed,Pool
+Commercial,1004,2025-01-18,2025-01-12,2025-02-28,Retail store expansion,"321 Oak St, Springfield",Alice Brown,Retail Builders,150000,3000,Commercial,Completed,Retail
+Residential,1005,2025-01-20,2025-01-15,2025-03-01,Garage addition,"654 Pine St, Springfield",Tom Clark,Garage Pros,35000,700,Residential,In Progress,Garage
