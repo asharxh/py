@@ -1,0 +1,4 @@
+6XAHAJAA|Air India|LKO|02:10|On Time
+6XAHXZAA|Fly Emirates|Abu Dahbi|02:30|On Time
+6XAPAJAK|Air India|Oman|03:10|On Time
+6PAAPAJL|Indigo|DELHI|03:50|On Time

@@ -1,0 +1,3 @@
+Baby|Justin Bieber|3.0|2
+Zindagi|Atif Asalam|4.0|0
+Ya Ali|Zubin Garg|3.0|1
